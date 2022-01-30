@@ -1,0 +1,20 @@
+.section.qoute{
+    display: block;
+    .qoust-text{
+        font-size:1.2em;
+        font-weight: 100;
+        letter-spacing:1px;
+        line-height:1.3;
+        color:var(--text-color);
+        svg{
+            color:var(--primery-color);
+            margin-right:.5em ;
+            font-size:1.5em;
+        }
+    }
+    .qoute-auther{
+        color:var(--text--light);
+        text-align: right;
+        margin-top:1em;
+    }
+}
